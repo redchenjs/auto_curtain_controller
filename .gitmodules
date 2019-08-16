@@ -1,9 +1,6 @@
-[submodule "auto_curtain_controller_msp430"]
-	path = auto_curtain_controller_msp430
-	url = https://github.com/redchenjs/auto_curtain_controller_msp430
-[submodule "auto_curtain_controller_win"]
-	path = auto_curtain_controller_win
-	url = https://github.com/redchenjs/auto_curtain_controller_win
-[submodule "auto_curtain_controller_android"]
-	path = auto_curtain_controller_android
+[submodule "android"]
+	path = android
 	url = https://github.com/redchenjs/auto_curtain_controller_android
+[submodule "msp430"]
+	path = msp430
+	url = https://github.com/redchenjs/auto_curtain_controller_msp430
